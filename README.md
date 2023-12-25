@@ -1,5 +1,9 @@
 # DLOptimizers
 
+## Ishita Tings 
+- Testing optimizers on MNIST dataset
+- Plot time, accuracy, loss 
+
 ## Akshay Stuff
 - Testing gradient descent optimizers on well-behaved functions
 - madgrad
